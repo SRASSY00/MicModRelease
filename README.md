@@ -22,7 +22,7 @@ Windows向けリアルタイムノイズ除去アプリ
 
 ブラウザでも利用できます（Chrome/Edge推奨）
 
-https://noiz-moderator.vercel.app
+https://micmod.app
 
 ## ライセンス
 
